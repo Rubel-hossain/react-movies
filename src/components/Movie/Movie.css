@@ -1,0 +1,29 @@
+.rmdb-movie {
+  margin-bottom: 100px;
+}
+
+.rmdb-movie-grid-wrapper {
+  width: 100%;
+  object-fit: cover;
+}
+.rmdb-actor-thumb {
+  width: 30%;
+  float: left;
+  padding: 15px;
+}
+.rmdb-actor-thumb img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+.border {
+  border: 1px solid #000;
+}
+.my-2 {
+  margin-top: 2rem;
+  margin-bottom: 2rem
+}
+.my-1 {
+  margin-top: 1rem;
+  margin-bottom: 1rem
+}
